@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wx281d3020ec123e78",
-	"projectname": "my2048",
+	"projectname": "my2048%E5%B0%8F%E6%B8%B8%E6%88%8F",
 	"condition": {
 		"search": {
 			"current": -1,
